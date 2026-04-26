@@ -2,7 +2,7 @@
 
 Personal portfolio site for Alec Searle — Software Engineering student and web developer based out of Utah Tech University.
 
-![Site Preview](./public/assets/preview.png)
+![alt text](<Screenshot 2026-04-26 at 1.08.20 PM.png>)
 
 ## About the Site
 
