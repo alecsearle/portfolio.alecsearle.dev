@@ -20,7 +20,7 @@ const experienceData = [
   {
     id: 2,
     company: "Zonos",
-    position: "Landed Cost Audit Specialist",
+    position: "Landed Cost Data Analyst",
     location: "St. George, UT",
     period: "Dec 2025 - Present",
     description: [
@@ -91,7 +91,7 @@ function Experience() {
             }))`;
           },
         },
-      }
+      },
     );
 
     // Animate experience items with stagger
@@ -114,7 +114,7 @@ function Experience() {
             end: "bottom 20%",
             toggleActions: "play none none reverse",
           },
-        }
+        },
       );
 
       // Add dot activation animation
@@ -136,7 +136,7 @@ function Experience() {
               start: "top 70%",
               toggleActions: "play none none reverse",
             },
-          }
+          },
         );
       }
     });
