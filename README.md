@@ -1,4 +1,4 @@
-# alecsearle.dev
+# portfolio.alecsearle.dev
 
 Personal portfolio site for Alec Searle — Software Engineering student and web developer based out of Utah Tech University.
 
